@@ -15,9 +15,7 @@ adult="no"
 description="Ein Fork des XBMC Mediencenters publiziert von LeeTV erschienen auf https://leetvstuff.com."
 
 name="OTT Navigator 1.6.7.3 (Premium Beta Lite)"
-
 section="no"
-
 url="https://www.djjubeemedia.appboxes.co/Apks/Media-Players%E2%80%A2/OTT-Navigator-v1.6.7.3%5BPremium-Lite%5D.apk"
 icon="https://cdn.ezjojoy.com/packages/studio.scillarium.ottnavigator/icon_e899dd.png"
 fanart="https://gamedva.com/wp-content/uploads/2021/11/OTT-Navigator-IPTV.jpg"
