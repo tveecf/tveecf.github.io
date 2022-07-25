@@ -1,6 +1,6 @@
 id="plugin.program.bitorbit"
-version="2.1.0"
-zip="https://github.com/tveecf/plugin.program.bitorbit/archive/refs/heads/matrix.zip"
+version="2.0.9"
+zip="https://github.com/tveecf/plugin.program.bitorbit/"
 
 name="KODIBox Leia Build"
 version="1.0"
