@@ -237,7 +237,19 @@ adult="No"
 info="http://"
 description="Xbox v19.4"
 
-
+name="KOVI Mediacenter Matrix"
+version="1.0"
+url="http://stubebox.stube.org/wizard/stubeboxML/stubeboxML.zip"
+minor="http://"
+gui="http://"
+kodi="19.4"
+theme="http://"
+icon="http://"
+fanart="http://"
+preview="https://youtu.be/l7lUbnX1CAg"
+adult="no"
+info="https://tveecf.github.io/setup/txt/notify.txt"
+description="Vavoo integriert. Mindestanforderungen: Fire TV Stick - für KODI Matrix ab 19.1."
 
 
 
