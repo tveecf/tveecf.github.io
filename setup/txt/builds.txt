@@ -4,9 +4,9 @@ zip="https://github.com/tveecf/plugin.program.bitmatrix/archive/refs/heads/matri
 
 name="KOVI Mediencenter v19 (Matrix)"
 version="1.0"
-url="https://www.dropbox.com/s/cjqbivv5hog6l99/kovi.zip?dl=1"
+url="https://0cn.de/kovi19dl"
 minor="http://"
-gui="https://www.dropbox.com/s/u7a9ehtiwp82tbk/kovi_guisettings.zip?dl=1"
+gui="https://0cn.de/kovi19gui"
 kodi="19.4"
 theme="url.to.themes"
 icon="https://tveecf.github.io/img/index/koviicon.png"
