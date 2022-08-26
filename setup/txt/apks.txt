@@ -1,7 +1,7 @@
 
 name="KOVI 19.4 Matrix 32-Bit"
 section="no"
-url="https://www.dropbox.com/s/cjqbivv5hog6l99/KOVI.zip?dl=1"
+url="https://0cn.de/kovi19bit"
 icon="https://tveecf.github.io/img/index/koviicon.png"
 fanart="https://tveecf.github.io/img/index/kovibanner.png"
 adult="no"
