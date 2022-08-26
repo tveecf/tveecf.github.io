@@ -1,3 +1,12 @@
+
+name="KOVI 19.4 Matrix 32-Bit"
+section="no"
+url="https://www.dropbox.com/s/cjqbivv5hog6l99/KOVI.zip?dl=1"
+icon="https://tveecf.github.io/img/index/koviicon.png"
+fanart="https://tveecf.github.io/img/index/kovibanner.png"
+adult="no"
+description="KOVI v19 Matrix Mediencenter."
+
 name="Wonderbox WBMC 19.4 Matrix 32-Bit"
 section="no"
 url="https://wonderbox.tv/repo/android-apps/WBMC-19.4-1904000-armeabi-v7a.apk"
