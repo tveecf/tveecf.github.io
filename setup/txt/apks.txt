@@ -30,11 +30,3 @@ icon="https://cdn.ezjojoy.com/packages/studio.scillarium.ottnavigator/icon_e899d
 fanart="https://gamedva.com/wp-content/uploads/2021/11/OTT-Navigator-IPTV.jpg"
 adult="no"
 description="A short description of the APK."
-
-name="IPTV & Video"
-section="yes"
-url="url.to.textfile"
-icon="https://w7.pngwing.com/pngs/432/675/png-transparent-iptv-google-play-aptoide-android.png"
-fanart="https://cdn.wethegeek.com/wp-content/uploads/2020/03/IPTV-Smarters-for-PC.png"
-adult="no"
-description="IPTV & Video-Player u.a. STB Emu Pro, OTT Navigator ."
