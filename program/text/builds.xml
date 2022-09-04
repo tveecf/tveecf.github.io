@@ -1,9 +1,9 @@
 <builds>
 
   <build>
-	<name>KODIBox Leia Build</name>
-	<version>1.0</version>
-	<url>https://www.dropbox.com/s/yvx81bqoco229di/kbox18.zip?dl=1</url>
+	<name>KOVI Mediacenter Leia</name>
+	<version>1.5</version>
+	<url>https://www.dropbox.com/s/z7asmh7vibtckku/kovi18v15.zip?dl=1</url>
 	<icon>http://visia.gq/tvisiaimg/buildleia.png</icon>
 	<fanart>https://tveecf.github.io/img/fanart.jpg</fanart>
 	<description>Für Geräte mit niedriger Leistung. Optimiert für Leia bis 18.9.</description>
@@ -11,8 +11,8 @@
 
 <build>
 	<name>KOVI Mediacenter Matrix</name>
-	<version>1.3</version>
-	<url>https://t1p.de/bit19mc</url>
+	<version>1.1</version>
+	<url>https://www.dropbox.com/s/2jmariec0kr4l0k/19v11.zip?dl=1</url>
 	<icon>https://tveecf.github.io/img/koviicon.png</icon>
 	<fanart>https://tveecf.github.io/img/fanart.jpg</fanart>
 	<description>Mindestanforderungen: Fire TV Stick 4K - bitorbit Mediacenter für KODI Matrix ab 19.1.</description>
