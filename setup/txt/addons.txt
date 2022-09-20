@@ -1,4 +1,3 @@
-########################################################################
 
 name="xStream"
 plugin="plugin.video.xstream"
@@ -11,7 +10,6 @@ fanart="https://raw.githubusercontent.com/streamxstream/xStreamRepo/master/plugi
 adult="no"
 description="xStream Repository"
 
-########################################################################
 
 name="Robin Hood TV"
 plugin="plugin.video.RobinHoodTv"
@@ -24,7 +22,6 @@ fanart="http://kodibalkan.com/repo/programi/plugin.video.RobinHoodTv/fanart.jpg"
 adult="no"
 description="Robin Hood TV" 
 
-########################################################################
 
 name="WRP-Metaplayer Repository"
 plugin="repository.wrp-metaplayer"
@@ -37,7 +34,6 @@ fanart="https://raw.githubusercontent.com/DWH-WFC/repository.wrp-metaplayer/mast
 adult="no"
 description="White Rabbit Productions Repository"
 
-########################################################################
 
 name="WRP Repository Archive"
 plugin="repository.repo.archive"
@@ -50,4 +46,3 @@ fanart="https://raw.githubusercontent.com/DWH-WFC/repository.repo.archive/master
 adult="no"
 description="White Rabbit Productions Repository"
 
-########################################################################
