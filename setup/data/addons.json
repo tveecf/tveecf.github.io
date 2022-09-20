@@ -1,17 +1,17 @@
 {
   "addons": [
     {
-      "name": "K.U.S AllInOne Repository",
+      "name": "BITORBIT  Repository",
       "type": "Repo",
       "section": false,
-      "plugin": "repository.kus.allinone",
-      "url": "https://kodi-unlimited-support.de/repo/repository.kus.allinone-3.5.zip",
+      "plugin": "repository.bitorbit",
+      "url": "https://github.com/tveecf/repo/blob/master/repository.bitorbit/repository.bitorbit-1.0.0.zip",
       "repository": "",
       "repositoryxml": "",
       "repositoryurl": "",
       "icon": "",
       "adult": false,
-      "description": "Test Blbla 123"
+      "description": "offizielle Repo"
     },
     {
       "name": "Spotify w/ Repository",
