@@ -1,7 +1,7 @@
 {
   "addons": [
     {
-      "name": "BITORBIT  Repository",
+      "name": "BITORBIT Repository",
       "type": "Repo",
       "section": false,
       "plugin": "repository.bitorbit",
