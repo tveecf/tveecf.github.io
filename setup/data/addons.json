@@ -5,13 +5,13 @@
       "type": "Repo",
       "section": false,
       "plugin": "repository.bitorbit",
-      "url": "https://github.com/tveecf/repo/blob/master/repository.bitorbit/repository.bitorbit-1.0.0.zip",
+      "url": "https://github.com/tveecf/repo/raw/master/repository.bitorbit/repository.bitorbit-1.0.0.zip",
       "repository": "",
       "repositoryxml": "",
       "repositoryurl": "",
       "icon": "",
       "adult": false,
-      "description": "offizielle Repo"
+      "description": "Offizielle Repository für das Mediencenter KOVI 18 (LEIA) & 19 (MATRIX)"
     },
     {
       "name": "Spotify w/ Repository",
@@ -24,13 +24,40 @@
       "repositoryurl": "https://kodi-community-addons.github.io/repository.marcelveldt/repository.marcelveldt/",
       "icon": "",
       "adult": false,
-      "description": "The official Spotify add-on."
+      "description": "Offizielles Spotify Addon."
+    },
+{
+      "name": "MediathekViewWeb",
+      "type": "addon",
+      "section": false,
+      "plugin": "plugin.video.mediathekviewweb",
+      "url": "https://github.com/TVISIA/repository.testmatrix/blob/main/repo/zips/plugin.video.mediathekviewweb/plugin.video.mediathekviewweb-2021.05.18.zip",
+      "repository": "repository.testmatrix",
+      "repositoryxml": "https://github.com/TVISIA/repository.testmatrix/raw/main/repo/addons.xml",
+      "repositoryurl": "https://github.com/TVISIA/repository.testmatrix/raw/main/repo/",
+      "icon": "https://github.com/TVISIA/repository.testmatrix/raw/main/repo/repository.testmatrix/icon.png",
+      "adult": true,
+      "description": "Durchstöbert zahlreicher Mediatheken auf Inhalte für KOVI Matrix (v19)."
+    },
+{
+      "name": "TESTMATRIX Repository",
+      "type": "Repo",
+      "section": false,
+      "plugin": "repository.testmatrix",
+      "url": "https://github.com/TVISIA/repository.testmatrix/blob/main/repository.testmatrix-1.0.0.zip",
+      "repository": "",
+      "repositoryxml": "",
+      "repositoryurl": "",
+      "icon": "https://github.com/TVISIA/repository.testmatrix/raw/main/repo/repository.testmatrix/icon.png",
+      "adult": true,
+      "description": "Eine ausgiebige Sammlung nützlicher Plugins für KOVI Matrix (v19)."
     },
     {
-      "name": "Example Section",
+      "name": "Für die Inhalte der Plugins sind die jeweiligen Entwickler verantwortlich! ",
       "section": true,
       "url": "url.to.json",
-      "description": "An Example Section."
+      "description": "Sollten Sie doch auf fragwürdige Inhalte stoßen oder sind Fehler ersichtlich, so bitten wir um kurze Mitteilung mit Quellenangaben."
     }
   ]
 }
+
